@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 23
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 26
     },
     {
       "id": 3,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Mark",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcq_AZWpLdD89kZbX9Pb_coMinIGVbHW28wg&usqp=CAU",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Kalada",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLg89XLs11NVzrZ14Sk97HhhpqBwWeh7YELQ&usqp=CAU",
+      "likes": 9,
+      "id": 10
+    },
+    {
+      "name": "Amy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR62YaIpz0-hqtiRqS2nvcd4eons4BeqCNgCw&usqp=CAU",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Anney",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKGJBwHnqKjxxq9fdT7-jDsV4gsPkOikkwsA&usqp=CAU",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
